@@ -1,0 +1,4 @@
+[
+  {"id":"it999", "urls": ["http://epg.it999.ru/epg.xml.gz", "http://epg.it999.ru/epg2.xml.gz", "http://epg.it999.ru/epg.xml"]},
+  {"id":"iptvx.one", "urls": ["https://iptvx.one/EPG", "https://iptvx.site/epg.xml.gz", "https://iptvx.one/epg/epg.xml.gz"]}
+]
